@@ -1,0 +1,13 @@
+two type :
+static and dynamic
+
+
+heading tags: 
+h1,h2,h3...h6
+
+element -open tag, content, close tag
+
+formatting tags
+
+inline elements : blod,strong,matk
+block level elements : p, pre, heading
