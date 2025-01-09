@@ -1,0 +1,7 @@
+types of websites- static and dynamic
+
+components - front end and backend, database
+
+3 - html(struture) ,css (style) ,js (functionality)
+
+<> -tag
