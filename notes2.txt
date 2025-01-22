@@ -5,3 +5,17 @@ components - front end and backend, database
 3 - html(struture) ,css (style) ,js (functionality)
 
 <> -tag
+
+!- Emmet Abbreviation html
+
+heading tag - h1 to h6
+open tag, content, close tag - element
+
+formatting tag - bold, strong , mark
+
+block level elements- heading , p, pre,div
+inline element - b, strong, mark,span
+
+anchor tag - a
+attribute - href,target
+img - self closing tag
