@@ -1,13 +1,5 @@
-two type :
-static and dynamic
+responsive : media query
 
+js - programming (backend) & scripting language (client side)
 
-heading tags: 
-h1,h2,h3...h6
-
-element -open tag, content, close tag
-
-formatting tags
-
-inline elements : blod,strong,matk
-block level elements : p, pre, heading
+js -v8 engine (chrome),edge - chakra or v8 ,
