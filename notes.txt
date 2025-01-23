@@ -3,3 +3,25 @@ responsive : media query
 js - programming (backend) & scripting language (client side)
 
 js -v8 engine (chrome),edge - chakra or v8 ,
+
+js 2 types => internal, external - 1
+
+ctrl+/ - comment
+
+variable -> container , store values
+
+1)declare - var - global scope, let - local or block scope, const (static or can't change)ocal or block scope
+
+Data Type : (varible type) - 2 types
+1)Primitive - numbers,strings,boolean, undefined, null
+2)non - primitive - objects, arrays, function
+
+
+typeof - varible type of data
+
+operator :-
+1)arithmetic operators -> +,-,/,*,%,**
+2)assigment opeartors 
+3)comparision operators
+4)logical operators
+5)uniary operator -> ++(increment),--(decrement)
