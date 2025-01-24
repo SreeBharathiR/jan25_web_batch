@@ -21,7 +21,20 @@ typeof - varible type of data
 
 operator :-
 1)arithmetic operators -> +,-,/,*,%,**
-2)assigment opeartors 
-3)comparision operators
-4)logical operators
+2)assigment opeartors -> +=, -=, /= , *= , %= , **=
+3)comparision operators -> ==, ===, !== ,!=, >,<, >= ,<= (boolean - true, false)
+4)logical operators -> && (AND) , ||(OR) , ! (NOT) (boolean - true or false)
+F F | T
+T T | T
+0 1 | 0
+1 0 | 0
 5)uniary operator -> ++(increment),--(decrement)
+
+== ->value , === -> value, data type
+
+Condition Statement :
+1) simple if
+if(condition){
+//statement}
+}
+2) if else
