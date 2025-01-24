@@ -37,4 +37,17 @@ Condition Statement :
 if(condition){
 //statement}
 }
-2) if else
+2) if else if(condition){}else{}
+3)else if
+4)switch case 
+syntax => switch(value){
+case "":
+//statement
+break;
+case "":
+//statment
+break;
+dafult:
+//statment
+}
+5) Ternary operator - short hand for if else
