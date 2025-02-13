@@ -35,3 +35,45 @@ removeBtn.addEventListener("click", () => {
   }
 });
 console.log(inputField);
+
+const headingText = document.getElementById("heading");
+const changeBtn = document.getElementById("changeBtn");
+
+changeBtn.addEventListener("click", () => {
+  headingText.style.color = "red";
+  headingText.textContent = "<a>Link</a>";
+});
+
+headingText.addEventListener("mouseover", () => {
+  headingText.style.fontFamily = "cursive";
+});
+
+headingText.addEventListener("mouseout", () => {
+  headingText.style.fontFamily = "Times New Roman";
+});
+
+const box1 = document.getElementById("b1");
+const box2 = document.getElementById("b2");
+let player = "O";
+box1.addEventListener("click", () => {
+  if (box1.textContent) {
+    return;
+  }
+  box1.textContent = player;
+  if (player === "O") {
+    player = "X";
+  } else {
+    player = "O";
+  }
+});
+box2.addEventListener("click", () => {
+  if (box2.textContent) {
+    return;
+  }
+  box2.textContent = player;
+  if (player === "O") {
+    player = "X";
+  } else {
+    player = "O";
+  }
+});
